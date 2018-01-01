@@ -13,4 +13,5 @@ Determining scheduling needs for community workshops. Recruiting workshop design
 ## Working Space Manager
 
 Make sure shared work space hours are not in conflict with other functions.
+Create and implement systems to keep place clean.
 
